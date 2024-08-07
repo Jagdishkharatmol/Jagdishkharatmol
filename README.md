@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jagdishkharatmol
 - 👀 I’m interested in Data science and Machine learning
-- 🌱 Completed my under graduation Bsc Computer Science
+- 🌱 Completed my Master's in  Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail: kharatmoljagdish@gmail.com
 
